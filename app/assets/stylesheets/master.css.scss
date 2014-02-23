@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Parisienne);
+
+body {
+  background: url('backgroundsky.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.custom-h1 {
+	color: #732009;
+	text-align: left;
+	font-weight: 100;
+	font-size: 60px;
+	font-family: 'Gabriela','Helvetica sans-serif';
+	text-shadow: 2px 2px white;
+	line-height: 100px;
+}
+
+.custom-h2 {
+	color: black;
+	text-align: center;
+	font-weight: 40;
+	font-size: 40px;
+	font-family: 'Parisienne';
+}
